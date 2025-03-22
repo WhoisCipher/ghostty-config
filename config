@@ -1,0 +1,22 @@
+theme = UltraDark
+
+# background-opacity = 0.8
+# background-blur = 20
+
+window-decoration = none
+
+cursor-style = block
+window-theme = dark
+
+clipboard-read = ask
+clipboard-write = ask
+
+copy-on-select = false
+
+
+shell-integration = zsh
+shell-integration-features = sudo
+
+auto-update = download
+auto-update-channel = tip
+
